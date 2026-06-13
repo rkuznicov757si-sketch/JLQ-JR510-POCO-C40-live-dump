@@ -7,7 +7,7 @@ This repository contains a live dump of the **POCO C40** (codename `frost`) base
 - The kernel is subject to **GPLv2**. The original manufacturer (JLQ / Xiaomi) has not released kernel sources, violating GPL. This dump is a clean-room effort to help the community.
 
 ## 📁 Contents (planned / partially available)
-- `vmlinux` – uncompressed kernel ELF with symbols (from firmware)
+- `vmlinux` – uncompressed kernel ELF with symbols (from firmware. In 7z archive is located Ghidra 12.1.2 Project, that contains it in full view. P.S. It's in Releases)
 - `config.gz` – kernel configuration
 - `kallsyms` – symbol table (after root)
 - `dmesg.log` – kernel boot log
