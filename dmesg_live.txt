@@ -1,0 +1,824 @@
+[  457.500643] type=1400 audit(1781485398.725:2142): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  457.501376] type=1400 audit(1781485398.725:2143): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  457.502122] type=1400 audit(1781485398.725:2144): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  457.522985] type=1400 audit(1781485398.745:2145): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  457.524646] audit: audit_lost=1450 audit_rate_limit=5 audit_backlog_limit=64
+[  457.524651] audit: rate limit exceeded
+[  458.528019] type=1400 audit(1781485399.753:2465): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  458.528984] type=1400 audit(1781485399.753:2466): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  458.529664] type=1400 audit(1781485399.753:2467): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  458.534644] type=1400 audit(1781485399.757:2468): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  458.564573] type=1400 audit(1781485399.789:2469): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  458.565416] audit: audit_lost=1769 audit_rate_limit=5 audit_backlog_limit=64
+[  458.565422] audit: rate limit exceeded
+[  459.551003] type=1400 audit(1781485400.773:2682): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  459.551683] type=1400 audit(1781485400.777:2683): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  459.552365] type=1400 audit(1781485400.777:2684): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  459.553001] type=1400 audit(1781485400.777:2685): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  459.578790] audit: audit_lost=1981 audit_rate_limit=5 audit_backlog_limit=64
+[  459.578795] audit: rate limit exceeded
+[  459.579114] type=1400 audit(1781485400.801:2686): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  460.604225] type=1400 audit(1781485401.829:2897): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  460.604637] audit: audit_lost=2191 audit_rate_limit=5 audit_backlog_limit=64
+[  460.604641] audit: rate limit exceeded
+[  460.604900] type=1400 audit(1781485401.829:2898): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  460.605533] type=1400 audit(1781485401.829:2899): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  460.606147] type=1400 audit(1781485401.829:2900): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  460.606898] type=1400 audit(1781485401.829:2901): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  461.607586] type=1400 audit(1781485402.833:3232): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  461.608275] type=1400 audit(1781485402.833:3233): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  461.609232] type=1400 audit(1781485402.833:3234): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  461.611967] type=1400 audit(1781485402.837:3235): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  461.614694] type=1400 audit(1781485402.837:3236): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  461.642710] audit: audit_lost=2521 audit_rate_limit=5 audit_backlog_limit=64
+[  461.642715] audit: rate limit exceeded
+[  462.623972] type=1400 audit(1781485403.849:3654): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  462.625232] type=1400 audit(1781485403.849:3655): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  462.627516] type=1400 audit(1781485403.853:3656): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  462.628160] type=1400 audit(1781485403.853:3657): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  462.628747] type=1400 audit(1781485403.853:3658): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  462.651554] audit: audit_lost=2961 audit_rate_limit=5 audit_backlog_limit=64
+[  462.651559] audit: rate limit exceeded
+[  463.628784] type=1400 audit(1781485404.853:4109): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  463.629630] type=1400 audit(1781485404.853:4110): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  463.630342] type=1400 audit(1781485404.853:4111): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  463.631161] type=1400 audit(1781485404.853:4112): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  463.631866] type=1400 audit(1781485404.853:4113): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  463.669870] audit: audit_lost=3421 audit_rate_limit=5 audit_backlog_limit=64
+[  463.669876] audit: rate limit exceeded
+[  467.979832] jlq_cm: JCMREC: OCV:4293000 Volt:4362000 Cur:-83000 BSoc:99 Ssoc:99 Msoc:99 Cnow:4890000 Cfull:4939000 Chg:1 ibus:484000 vbus:4700000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  469.547617] type=1400 audit(1781485410.769:4303): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  469.599641] type=1400 audit(1781485410.821:4304): avc: denied { search } for comm=42726F77736572207461736B name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  469.601999] audit: audit_lost=3577 audit_rate_limit=5 audit_backlog_limit=64
+[  469.602003] audit: rate limit exceeded
+[  469.602409] type=1400 audit(1781485410.825:4305): avc: denied { search } for comm=42726F77736572207461736B name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  469.603833] type=1400 audit(1781485410.825:4306): avc: denied { search } for comm=42726F77736572207461736B name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  469.606234] type=1400 audit(1781485410.825:4307): avc: denied { search } for comm=42726F77736572207461736B name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  472.005988] type=1400 audit(1781485413.229:4316): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  472.009158] type=1400 audit(1781485413.233:4317): avc: denied { search } for comm="pool-16-thread-" name="soc@0" dev="sysfs" ino=544 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_sysfs_devicetree_soc:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  483.609419] type=1400 audit(1781485424.833:4318): avc: denied { write } for comm=43724173796E635461736B202331 name="tasks" dev="cgroup" ino=21 scontext=u:r:untrusted_app:s0:c219,c256,c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.android.chrome
+[  484.866630] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 420
+[  484.902670] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 419
+[  484.922645] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 418
+[  484.934631] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 416
+[  484.970625] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 415
+[  484.986687] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 414
+[  485.002768] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 413
+[  485.018652] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 412
+[  485.054907] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 411
+[  485.070649] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 410
+[  485.086649] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 409
+[  485.118653] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 408
+[  485.150656] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 407
+[  485.186652] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 406
+[  485.202653] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 405
+[  486.056012] type=1400 audit(1781485427.277:4319): avc: denied { read } for comm=".android.camera" name="u:object_r:vendor_panel_info_prop:s0" dev="tmpfs" ino=1305 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:vendor_panel_info_prop:s0 tclass=file permissive=0 app=com.android.camera
+[  486.180528] type=1400 audit(1781485427.405:4320): avc: denied { write } for comm="file-logger" name="tasks" dev="cgroup" ino=21 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.android.camera
+[  491.536145] healthd: battery l=99 v=4382 t=32.3 h=2 st=2 c=-293000 fc=4939000 cc=0 chg=au
+[  498.700056] jlq_cm: JCMREC: OCV:4294000 Volt:4383000 Cur:-284000 BSoc:99 Ssoc:99 Msoc:99 Cnow:4892000 Cfull:4939000 Chg:1 ibus:480000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  502.757910] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[  502.758389] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[  502.764118] healthd: battery l=100 v=4377 t=32.2 h=2 st=2 c=-248000 fc=4939000 cc=0 chg=au
+[  502.905165] type=1400 audit(1781485444.129:4321): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  502.951732] type=1400 audit(1781485444.177:4322): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  503.039977] type=1400 audit(1781485444.265:4323): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  503.056133] type=1400 audit(1781485444.281:4324): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  503.068835] type=1400 audit(1781485444.289:4325): avc: denied { write } for comm="Primes-1" name="tasks" dev="cgroup" ino=21 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.google.android.apps.turbo
+[  521.718745] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 406
+[  522.223360] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 407
+[  522.722825] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 408
+[  523.726784] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 409
+[  524.226661] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 410
+[  524.730627] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 411
+[  525.226733] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 412
+[  526.218620] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 413
+[  529.420104] jlq_cm: JCMREC: OCV:4294000 Volt:4383000 Cur:-283000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4894000 Cfull:4939000 Chg:1 ibus:480000 vbus:4700000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  551.533204] healthd: battery l=100 v=4383 t=31.9 h=2 st=2 c=-275000 fc=4939000 cc=0 chg=au
+[  556.038087] type=1400 audit(1781485497.261:4326): avc: denied { getattr } for comm="pool-16-thread-" path="/proc/3151" dev="proc" ino=45299 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:r:system_app:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  556.197243] type=1400 audit(1781485497.377:4327): avc: denied { getattr } for comm="pool-16-thread-" path="/system/bin/init" dev="dm-8" ino=757 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:init_exec:s0 tclass=file permissive=0 app=com.lonelycatgames.Xplore
+[  556.210463] type=1400 audit(1781485497.433:4328): avc: denied { getattr } for comm="pool-16-thread-" path="/sys/kernel/tracing/trace_marker" dev="tracefs" ino=8961 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:debugfs_trace_marker:s0 tclass=file permissive=0 app=com.lonelycatgames.Xplore
+[  556.245772] type=1400 audit(1781485497.465:4329): avc: denied { getattr } for comm="pool-16-thread-" path="/dev/cpuctl/foreground/tasks" dev="cgroup" ino=12 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.lonelycatgames.Xplore
+[  556.246489] type=1400 audit(1781485497.465:4330): avc: denied { getattr } for comm="pool-16-thread-" path="/dev/blkio/foreground/tasks" dev="cgroup" ino=28 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.lonelycatgames.Xplore
+[  556.909756] audit: audit_lost=3585 audit_rate_limit=5 audit_backlog_limit=64
+[  556.909761] audit: rate limit exceeded
+[  557.228739] type=1400 audit(1781485498.453:4332): avc: denied { read } for comm="d.process.acore" name="u:object_r:vendor_display_prop:s0" dev="tmpfs" ino=1269 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:vendor_display_prop:s0 tclass=file permissive=0 app=com.android.calllogbackup
+[  557.428287] type=1400 audit(1781485498.649:4333): avc: denied { write } for comm="ExtraCallsProvi" name="tasks" dev="cgroup" ino=21 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.android.calllogbackup
+[  560.140809] jlq_cm: JCMREC: OCV:4295000 Volt:4374000 Cur:-140000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4896000 Cfull:4939000 Chg:1 ibus:480000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  570.767697] type=1400 audit(1781485511.993:4334): avc: denied { write } for comm=42726F77736572207461736B name="tp_grip_area" dev="proc" ino=4026532503 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:proc_touchpad:s0 tclass=file permissive=0 app=com.lonelycatgames.Xplore
+[  570.768897] type=1400 audit(1781485511.993:4335): avc: denied { write } for comm=42726F77736572207461736B name="tp_selftest" dev="proc" ino=4026532193 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:proc_tp_selftest:s0 tclass=file permissive=0 app=com.lonelycatgames.Xplore
+[  590.859783] jlq_cm: JCMREC: OCV:4295000 Volt:4376000 Cur:-239000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4897000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  594.838704] type=1400 audit(1781485536.053:4336): avc: denied { getattr } for comm="pool-16-thread-" path="/postinstall" dev="dm-8" ino=54 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:postinstall_mnt_dir:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  596.328694] type=1400 audit(1781485537.553:4337): avc: denied { read } for comm="pool-16-thread-" name="sdcard" dev="tmpfs" ino=13439 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_sdcard_file:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  596.376590] type=1400 audit(1781485537.601:4338): avc: denied { read } for comm=42726F77736572207461736B name="sdcard" dev="tmpfs" ino=13439 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_sdcard_file:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  596.931925] type=1400 audit(1781485538.157:4339): avc: denied { search } for comm="pool-16-thread-" name="/" dev="mmcblk0p54" ino=2 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:cache_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  596.932703] type=1400 audit(1781485538.157:4340): avc: denied { search } for comm="pool-16-thread-" name="/" dev="mmcblk0p54" ino=2 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:cache_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  596.933103] audit: audit_lost=3586 audit_rate_limit=5 audit_backlog_limit=64
+[  596.933110] audit: rate limit exceeded
+[  596.933446] type=1400 audit(1781485538.157:4341): avc: denied { search } for comm="pool-16-thread-" name="/" dev="mmcblk0p54" ino=2 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:cache_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  599.880489] type=1400 audit(1781485541.105:4362): avc: denied { getattr } for comm="pool-16-thread-" path="/mnt/vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  599.902572] type=1400 audit(1781485541.125:4363): avc: denied { search } for comm=42726F77736572207461736B name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  599.904628] type=1400 audit(1781485541.129:4364): avc: denied { search } for comm=42726F77736572207461736B name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  599.906012] type=1400 audit(1781485541.129:4365): avc: denied { search } for comm=42726F77736572207461736B name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  600.043052] audit: audit_lost=3606 audit_rate_limit=5 audit_backlog_limit=64
+[  600.043058] audit: rate limit exceeded
+[  600.044161] type=1400 audit(1781485541.265:4366): avc: denied { search } for comm="pool-16-thread-" name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  601.519283] type=1400 audit(1781485542.741:4399): avc: denied { search } for comm="pool-16-thread-" name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  601.562625] type=1400 audit(1781485542.785:4400): avc: denied { search } for comm=42726F77736572207461736B name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  601.563470] type=1400 audit(1781485542.785:4401): avc: denied { search } for comm=42726F77736572207461736B name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  601.563980] audit: audit_lost=3638 audit_rate_limit=5 audit_backlog_limit=64
+[  601.563986] audit: rate limit exceeded
+[  601.564157] type=1400 audit(1781485542.785:4402): avc: denied { search } for comm=42726F77736572207461736B name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  601.565786] type=1400 audit(1781485542.789:4403): avc: denied { search } for comm=42726F77736572207461736B name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  603.291586] type=1400 audit(1781485544.513:4429): avc: denied { search } for comm="pool-16-thread-" name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  603.339009] type=1400 audit(1781485544.561:4430): avc: denied { search } for comm=42726F77736572207461736B name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  609.345652] type=1400 audit(1781485550.569:4431): avc: denied { search } for comm="pool-16-thread-" name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  609.400122] type=1400 audit(1781485550.621:4432): avc: denied { search } for comm=42726F77736572207461736B name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  609.404188] type=1400 audit(1781485550.625:4433): avc: denied { search } for comm=42726F77736572207461736B name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  609.405261] audit: audit_lost=3663 audit_rate_limit=5 audit_backlog_limit=64
+[  609.405270] audit: rate limit exceeded
+[  609.405987] type=1400 audit(1781485550.629:4434): avc: denied { search } for comm=42726F77736572207461736B name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  609.407905] type=1400 audit(1781485550.629:4435): avc: denied { search } for comm=42726F77736572207461736B name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  609.409523] type=1400 audit(1781485550.629:4436): avc: denied { search } for comm=42726F77736572207461736B name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  609.411113] type=1400 audit(1781485550.629:4437): avc: denied { search } for comm=42726F77736572207461736B name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  609.412651] type=1400 audit(1781485550.629:4438): avc: denied { search } for comm=42726F77736572207461736B name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  611.535480] healthd: battery l=100 v=4363 t=32.1 h=2 st=2 c=-159000 fc=4939000 cc=0 chg=au
+[  621.579871] jlq_cm: JCMREC: OCV:4295000 Volt:4379000 Cur:-236000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4899000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  624.098714] type=1400 audit(1781485565.317:4447): avc: denied { search } for comm="pool-16-thread-" name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  624.100178] type=1400 audit(1781485565.317:4448): avc: denied { search } for comm="pool-16-thread-" name="vendor" dev="tmpfs" ino=1057 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_vendor_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  652.299944] jlq_cm: JCMREC: OCV:4295000 Volt:4382000 Cur:-211000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4901000 Cfull:4939000 Chg:1 ibus:484000 vbus:4700000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  656.527819] type=1400 audit(1781485597.749:4449): avc: denied { getattr } for comm="pool-16-thread-" path="/mnt/media_rw" dev="tmpfs" ino=13417 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:mnt_media_rw_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  671.533148] healthd: battery l=100 v=4375 t=32.3 h=2 st=2 c=-109000 fc=4939000 cc=0 chg=au
+[  683.019790] jlq_cm: JCMREC: OCV:4296000 Volt:4384000 Cur:-273000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4903000 Cfull:4939000 Chg:1 ibus:484000 vbus:4700000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  684.386215] init: Untracked pid 15600 exited with status 0
+[  684.398124] init: Untracked pid 15607 exited with status 0
+[  689.459342] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[  689.468561] healthd: battery l=100 v=4347 t=32.5 h=2 st=2 c=64000 fc=4939000 cc=0 chg=au
+[  689.468574] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[  689.469392] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[  689.477142] healthd: battery l=100 v=4347 t=32.5 h=2 st=2 c=64000 fc=4939000 cc=0 chg=au
+[  689.789936] init: Untracked pid 15758 exited with status 0
+[  693.067795] binder: undelivered transaction 545541, process died.
+[  693.067820] binder: undelivered transaction 545543, process died.
+[  693.067824] binder: undelivered transaction 545545, process died.
+[  693.171877] type=1400 audit(1781485634.397:4450): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  693.208472] type=1400 audit(1781485634.433:4451): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  693.435728] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[  693.440742] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[  693.443248] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[  693.444096] healthd: battery l=100 v=4350 t=32.5 h=2 st=2 c=42000 fc=4939000 cc=0 chg=au
+[  693.453269] healthd: battery l=100 v=4350 t=32.5 h=2 st=2 c=42000 fc=4939000 cc=0 chg=au
+[  709.549074] type=1400 audit(1781485650.773:4452): avc: denied { read } for comm=42726F77736572207461736B name="cache" dev="dm-8" ino=16 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:cache_file:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  709.554267] type=1400 audit(1781485650.777:4453): avc: denied { getattr } for comm=42726F77736572207461736B path="/system/bin/init" dev="dm-8" ino=757 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:init_exec:s0 tclass=file permissive=0 app=com.lonelycatgames.Xplore
+[  709.556096] type=1400 audit(1781485650.777:4454): avc: denied { read } for comm=42726F77736572207461736B name="init" dev="dm-8" ino=26 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:init_exec:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  709.974160] binder: undelivered transaction 552088, process died.
+[  709.974168] binder: undelivered transaction 552090, process died.
+[  709.974275] binder: undelivered transaction 552086, process died.
+[  710.046471] type=1400 audit(1781485651.269:4455): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  710.103136] type=1400 audit(1781485651.329:4456): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  710.855131] init: Untracked pid 16117 exited with status 0
+[  713.374794] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[  713.380507] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[  713.381812] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[  713.383935] healthd: battery l=100 v=4353 t=32.6 h=2 st=2 c=38000 fc=4939000 cc=0 chg=au
+[  713.395199] healthd: battery l=100 v=4353 t=32.6 h=2 st=2 c=38000 fc=4939000 cc=0 chg=au
+[  713.739871] jlq_cm: JCMREC: OCV:4296000 Volt:4353000 Cur:38000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4904000 Cfull:4939000 Chg:1 ibus:480000 vbus:4700000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  713.797346] init: Untracked pid 16170 exited with status 0
+[  713.886194] init: Untracked pid 16166 exited with status 0
+[  714.374993] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[  714.380552] healthd: battery l=100 v=4373 t=32.5 h=2 st=2 c=-192000 fc=4939000 cc=0 chg=au
+[  714.381887] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[  714.382345] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[  714.400822] healthd: battery l=100 v=4373 t=32.5 h=2 st=2 c=-192000 fc=4939000 cc=0 chg=au
+[  717.077475] init: Untracked pid 16205 exited with status 0
+[  717.156918] init: Untracked pid 16209 exited with status 0
+[  731.533623] healthd: battery l=100 v=4384 t=32.6 h=2 st=2 c=-285000 fc=4939000 cc=0 chg=au
+[  731.626766] type=1400 audit(1781485672.849:4457): avc: denied { read } for comm="system:ui" name="u:object_r:vendor_display_prop:s0" dev="tmpfs" ino=1269 scontext=u:r:system_app:s0 tcontext=u:object_r:vendor_display_prop:s0 tclass=file permissive=0
+[  731.915948] init: Untracked pid 16254 exited with status 0
+[  743.843162] type=1400 audit(1781485685.065:4458): avc: denied { read } for comm=42726F77736572207461736B name="cache" dev="dm-8" ino=16 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:cache_file:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  743.849369] type=1400 audit(1781485685.073:4459): avc: denied { getattr } for comm=42726F77736572207461736B path="/system/bin/init" dev="dm-8" ino=757 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:init_exec:s0 tclass=file permissive=0 app=com.lonelycatgames.Xplore
+[  743.850166] type=1400 audit(1781485685.073:4460): avc: denied { read } for comm=42726F77736572207461736B name="init" dev="dm-8" ino=26 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:init_exec:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  744.459680] jlq_cm: JCMREC: OCV:4296000 Volt:4379000 Cur:-222000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4905000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  744.562610] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 414
+[  744.766868] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 415
+[  744.966755] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 416
+[  745.350639] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 417
+[  745.550643] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 418
+[  745.750595] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 419
+[  745.950615] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 420
+[  746.354592] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 421
+[  746.550598] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 422
+[  746.750554] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 423
+[  746.934560] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 424
+[  747.270678] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 425
+[  747.438617] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 426
+[  747.606625] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 427
+[  747.774636] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 428
+[  748.106690] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 429
+[  748.274632] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 430
+[  748.442634] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 431
+[  748.594697] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 432
+[  756.079813] type=1400 audit(1781485697.301:4461): avc: denied { search } for comm="pool-16-thread-" name="apex" dev="dm-12" ino=19 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:apex_data_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  756.081173] type=1400 audit(1781485697.305:4462): avc: denied { search } for comm="pool-16-thread-" name="apex" dev="dm-12" ino=19 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:apex_data_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  756.083402] type=1400 audit(1781485697.305:4463): avc: denied { search } for comm="pool-16-thread-" name="apex" dev="dm-12" ino=19 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:apex_data_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  756.084584] type=1400 audit(1781485697.305:4464): avc: denied { search } for comm="pool-16-thread-" name="apex" dev="dm-12" ino=19 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:apex_data_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  756.650394] type=1400 audit(1781485697.873:4465): avc: denied { write } for comm="pool-16-thread-" name="traces" dev="dm-12" ino=89 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:trace_data_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  756.794173] type=1400 audit(1781485698.017:4466): avc: denied { write } for comm="pool-16-thread-" name="bluedroid" dev="dm-12" ino=30 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:bluetooth_data_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  756.796117] audit: audit_lost=3671 audit_rate_limit=5 audit_backlog_limit=64
+[  756.796127] audit: rate limit exceeded
+[  757.438414] type=1400 audit(1781485698.661:4472): avc: denied { write } for comm="pool-16-thread-" name="migt" dev="dm-12" ino=264 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:migt_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  757.440184] type=1400 audit(1781485698.665:4473): avc: denied { write } for comm="pool-16-thread-" name="ndebugsocket" dev="dm-12" ino=14904 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:system_ndebug_socket:s0 tclass=sock_file permissive=0 app=com.lonelycatgames.Xplore
+[  757.448019] type=1400 audit(1781485698.673:4474): avc: denied { write } for comm="pool-16-thread-" name="unsolzygotesocket" dev="dm-12" ino=14864 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:system_unsolzygote_socket:s0 tclass=sock_file permissive=0 app=com.lonelycatgames.Xplore
+[  757.562788] type=1400 audit(1781485698.785:4475): avc: denied { search } for comm="pool-16-thread-" name="tombstones" dev="dm-12" ino=97 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:tombstone_data_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  757.720166] type=1400 audit(1781485698.945:4476): avc: denied { write } for comm="pool-16-thread-" name="camera" dev="dm-12" ino=80 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:vendor_camera_data_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  760.985540] type=1400 audit(1781485702.209:4479): avc: denied { getattr } for comm="pool-16-thread-" path="/data/adb" dev="dm-12" ino=212 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:adb_data_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  770.925996] type=1400 audit(1781485712.149:4480): avc: denied { getattr } for comm="pool-16-thread-" path="/data/gsi" dev="dm-12" ino=275 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:gsi_data_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  775.179868] jlq_cm: JCMREC: OCV:4297000 Volt:4362000 Cur:-184000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4907000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  784.158508] type=1400 audit(1781485725.381:4481): avc: denied { write } for comm="pool-16-thread-" name="migt" dev="dm-12" ino=264 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:migt_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  784.166834] type=1400 audit(1781485725.389:4482): avc: denied { write } for comm="pool-16-thread-" name="ndebugsocket" dev="dm-12" ino=14904 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:system_ndebug_socket:s0 tclass=sock_file permissive=0 app=com.lonelycatgames.Xplore
+[  784.185133] type=1400 audit(1781485725.409:4483): avc: denied { write } for comm="pool-16-thread-" name="unsolzygotesocket" dev="dm-12" ino=14864 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:system_unsolzygote_socket:s0 tclass=sock_file permissive=0 app=com.lonelycatgames.Xplore
+[  784.242567] type=1400 audit(1781485725.465:4484): avc: denied { write } for comm=42726F77736572207461736B name="migt" dev="dm-12" ino=264 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:migt_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  784.246729] type=1400 audit(1781485725.469:4485): avc: denied { write } for comm=42726F77736572207461736B name="ndebugsocket" dev="dm-12" ino=14904 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:system_ndebug_socket:s0 tclass=sock_file permissive=0 app=com.lonelycatgames.Xplore
+[  784.263316] type=1400 audit(1781485725.485:4486): avc: denied { write } for comm=42726F77736572207461736B name="unsolzygotesocket" dev="dm-12" ino=14864 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:system_unsolzygote_socket:s0 tclass=sock_file permissive=0 app=com.lonelycatgames.Xplore
+[  788.363128] type=1400 audit(1781485729.585:4487): avc: denied { getattr } for comm="pool-16-thread-" path="/data/system/dropbox" dev="dm-12" ino=114 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:dropbox_data_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  791.543480] healthd: battery l=100 v=4384 t=32.8 h=2 st=2 c=-276000 fc=4939000 cc=0 chg=au
+[  793.293641] init: Untracked pid 16477 exited with status 0
+[  799.338226] type=1400 audit(1781485740.561:4488): avc: denied { read } for comm=42726F77736572207461736B name="cache" dev="dm-8" ino=16 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:cache_file:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  799.371055] type=1400 audit(1781485740.593:4489): avc: denied { getattr } for comm=42726F77736572207461736B path="/system/bin/init" dev="dm-8" ino=757 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:init_exec:s0 tclass=file permissive=0 app=com.lonelycatgames.Xplore
+[  799.371744] type=1400 audit(1781485740.593:4490): avc: denied { read } for comm=42726F77736572207461736B name="init" dev="dm-8" ino=26 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:init_exec:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  799.485964] type=1400 audit(1781485740.709:4491): avc: denied { write } for comm=42726F77736572207461736B name="migt" dev="dm-12" ino=264 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:migt_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  799.487068] type=1400 audit(1781485740.709:4492): avc: denied { write } for comm=42726F77736572207461736B name="ndebugsocket" dev="dm-12" ino=14904 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:system_ndebug_socket:s0 tclass=sock_file permissive=0 app=com.lonelycatgames.Xplore
+[  799.492565] type=1400 audit(1781485740.717:4493): avc: denied { write } for comm=42726F77736572207461736B name="unsolzygotesocket" dev="dm-12" ino=14864 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:system_unsolzygote_socket:s0 tclass=sock_file permissive=0 app=com.lonelycatgames.Xplore
+[  799.501089] audit: audit_lost=3678 audit_rate_limit=5 audit_backlog_limit=64
+[  799.501094] audit: rate limit exceeded
+[  805.903685] jlq_cm: JCMREC: OCV:4297000 Volt:4383000 Cur:-229000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4909000 Cfull:4939000 Chg:1 ibus:484000 vbus:4700000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  806.479470] init: Untracked pid 16508 exited with status 0
+[  808.338046] type=1400 audit(1781485749.561:4495): avc: denied { read } for comm=42726F77736572207461736B name="cache" dev="dm-8" ino=16 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:cache_file:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  808.348239] type=1400 audit(1781485749.569:4496): avc: denied { getattr } for comm=42726F77736572207461736B path="/system/bin/init" dev="dm-8" ino=757 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:init_exec:s0 tclass=file permissive=0 app=com.lonelycatgames.Xplore
+[  808.349127] type=1400 audit(1781485749.569:4497): avc: denied { read } for comm=42726F77736572207461736B name="init" dev="dm-8" ino=26 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:init_exec:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  808.480171] type=1400 audit(1781485749.705:4498): avc: denied { write } for comm=42726F77736572207461736B name="migt" dev="dm-12" ino=264 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:migt_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  808.481149] type=1400 audit(1781485749.705:4499): avc: denied { write } for comm=42726F77736572207461736B name="ndebugsocket" dev="dm-12" ino=14904 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:system_ndebug_socket:s0 tclass=sock_file permissive=0 app=com.lonelycatgames.Xplore
+[  808.485507] audit: audit_lost=3679 audit_rate_limit=5 audit_backlog_limit=64
+[  808.485512] audit: rate limit exceeded
+[  810.703268] type=1400 audit(1781485751.925:4502): avc: denied { read } for comm=42726F77736572207461736B name="cache" dev="dm-8" ino=16 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:cache_file:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  810.708004] type=1400 audit(1781485751.933:4503): avc: denied { getattr } for comm=42726F77736572207461736B path="/system/bin/init" dev="dm-8" ino=757 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:init_exec:s0 tclass=file permissive=0 app=com.lonelycatgames.Xplore
+[  810.708743] type=1400 audit(1781485751.933:4504): avc: denied { read } for comm=42726F77736572207461736B name="init" dev="dm-8" ino=26 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:init_exec:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  810.725535] init: Untracked pid 16537 exited with status 0
+[  810.892102] type=1400 audit(1781485752.117:4505): avc: denied { write } for comm=42726F77736572207461736B name="migt" dev="dm-12" ino=264 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:migt_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  810.893118] type=1400 audit(1781485752.117:4506): avc: denied { write } for comm=42726F77736572207461736B name="ndebugsocket" dev="dm-12" ino=14904 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:system_ndebug_socket:s0 tclass=sock_file permissive=0 app=com.lonelycatgames.Xplore
+[  810.900228] audit: audit_lost=3681 audit_rate_limit=5 audit_backlog_limit=64
+[  810.900233] audit: rate limit exceeded
+[  816.693251] init: Untracked pid 16568 exited with status 0
+[  817.302505] type=1400 audit(1781485758.525:4509): avc: denied { read } for comm=42726F77736572207461736B name="cache" dev="dm-8" ino=16 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:cache_file:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  817.312320] type=1400 audit(1781485758.537:4510): avc: denied { getattr } for comm=42726F77736572207461736B path="/system/bin/init" dev="dm-8" ino=757 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:init_exec:s0 tclass=file permissive=0 app=com.lonelycatgames.Xplore
+[  817.313865] type=1400 audit(1781485758.537:4511): avc: denied { read } for comm=42726F77736572207461736B name="init" dev="dm-8" ino=26 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:init_exec:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  817.488814] type=1400 audit(1781485758.713:4512): avc: denied { write } for comm=42726F77736572207461736B name="migt" dev="dm-12" ino=264 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:migt_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  817.492120] type=1400 audit(1781485758.717:4513): avc: denied { write } for comm=42726F77736572207461736B name="ndebugsocket" dev="dm-12" ino=14904 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:system_ndebug_socket:s0 tclass=sock_file permissive=0 app=com.lonelycatgames.Xplore
+[  817.503092] audit: audit_lost=3683 audit_rate_limit=5 audit_backlog_limit=64
+[  817.503098] audit: rate limit exceeded
+[  821.101250] init: Untracked pid 16595 exited with status 0
+[  821.162811] init: Untracked pid 16601 exited with status 0
+[  821.764000] type=1400 audit(1781485762.985:4516): avc: denied { getattr } for comm="pool-16-thread-" path="/data/system/dropbox" dev="dm-12" ino=114 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:dropbox_data_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  821.765717] type=1400 audit(1781485762.985:4517): avc: denied { getattr } for comm="pool-16-thread-" path="/data/system/dropbox" dev="dm-12" ino=114 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:dropbox_data_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  822.256501] type=1400 audit(1781485763.481:4518): avc: denied { getattr } for comm="pool-16-thread-" path="/data/system/dropbox" dev="dm-12" ino=114 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:dropbox_data_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  822.257993] type=1400 audit(1781485763.481:4519): avc: denied { getattr } for comm="pool-16-thread-" path="/data/system/dropbox" dev="dm-12" ino=114 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:dropbox_data_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  828.713662] init: Untracked pid 16642 exited with status 0
+[  830.567965] type=1400 audit(1781485771.793:4520): avc: denied { read } for comm=42726F77736572207461736B name="cache" dev="dm-8" ino=16 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:cache_file:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  830.572602] type=1400 audit(1781485771.797:4521): avc: denied { getattr } for comm=42726F77736572207461736B path="/system/bin/init" dev="dm-8" ino=757 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:init_exec:s0 tclass=file permissive=0 app=com.lonelycatgames.Xplore
+[  830.573389] type=1400 audit(1781485771.797:4522): avc: denied { read } for comm=42726F77736572207461736B name="init" dev="dm-8" ino=26 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:init_exec:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  830.671252] type=1400 audit(1781485771.893:4523): avc: denied { write } for comm=42726F77736572207461736B name="migt" dev="dm-12" ino=264 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:migt_file:s0 tclass=dir permissive=0 app=com.lonelycatgames.Xplore
+[  830.672449] type=1400 audit(1781485771.897:4524): avc: denied { write } for comm=42726F77736572207461736B name="ndebugsocket" dev="dm-12" ino=14904 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:system_ndebug_socket:s0 tclass=sock_file permissive=0 app=com.lonelycatgames.Xplore
+[  830.681169] type=1400 audit(1781485771.905:4525): avc: denied { write } for comm=42726F77736572207461736B name="unsolzygotesocket" dev="dm-12" ino=14864 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:system_unsolzygote_socket:s0 tclass=sock_file permissive=0 app=com.lonelycatgames.Xplore
+[  836.625223] jlq_cm: JCMREC: OCV:4297000 Volt:4380000 Cur:-163000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4911000 Cfull:4939000 Chg:1 ibus:484000 vbus:4700000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  840.891380] type=1400 audit(1781485782.117:4526): avc: denied { read } for comm=42726F77736572207461736B name="cache" dev="dm-8" ino=16 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:cache_file:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  840.893860] type=1400 audit(1781485782.117:4527): avc: denied { getattr } for comm=42726F77736572207461736B path="/system/bin/init" dev="dm-8" ino=757 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:init_exec:s0 tclass=file permissive=0 app=com.lonelycatgames.Xplore
+[  840.894695] type=1400 audit(1781485782.117:4528): avc: denied { read } for comm=42726F77736572207461736B name="init" dev="dm-8" ino=26 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:init_exec:s0 tclass=lnk_file permissive=0 app=com.lonelycatgames.Xplore
+[  851.539511] healthd: battery l=100 v=4385 t=33.0 h=2 st=2 c=-257000 fc=4939000 cc=0 chg=au
+[  854.690328] type=1400 audit(1781485795.913:4529): avc: denied { write } for comm=4173796E635461736B202331 name="tasks" dev="cgroup" ino=21 scontext=u:r:untrusted_app:s0:c3,c257,c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.miui.weather2
+[  861.127944] binder: undelivered transaction 635959, process died.
+[  861.127952] binder: undelivered transaction 635961, process died.
+[  861.128071] binder: undelivered transaction 635956, process died.
+[  861.148587] binder: undelivered transaction 636024, process died.
+[  861.148597] binder: undelivered transaction 636027, process died.
+[  861.148730] binder: undelivered transaction 636021, process died.
+[  861.174931] binder: undelivered transaction 636086, process died.
+[  861.208264] type=1400 audit(1781485802.429:4530): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  861.260762] type=1400 audit(1781485802.485:4531): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  861.304257] type=1400 audit(1781485802.529:4532): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  861.323121] type=1400 audit(1781485802.549:4533): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  861.346876] type=1400 audit(1781485802.573:4534): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  861.359578] type=1400 audit(1781485802.585:4535): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  861.832580] binder: undelivered transaction 636862, process died.
+[  861.832595] binder: undelivered transaction 636864, process died.
+[  861.832708] binder: undelivered transaction 636860, process died.
+[  861.859628] audit: audit_lost=3685 audit_rate_limit=5 audit_backlog_limit=64
+[  861.859633] audit: rate limit exceeded
+[  865.650595] type=1400 audit(1781485806.873:4544): avc: denied { write } for comm=43726173686C797469637320457863 name="tasks" dev="cgroup" ino=21 scontext=u:r:untrusted_app:s0:c14,c257,c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.preff.kb.xm
+[  865.935004] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[  865.943111] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[  865.943899] healthd: battery l=100 v=4350 t=33.2 h=2 st=2 c=86000 fc=4939000 cc=0 chg=au
+[  865.944608] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[  865.962230] healthd: battery l=100 v=4350 t=33.2 h=2 st=2 c=86000 fc=4939000 cc=0 chg=au
+[  866.931895] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[  866.937777] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[  866.938108] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[  866.938582] healthd: battery l=100 v=4376 t=33.0 h=2 st=2 c=-191000 fc=4939000 cc=0 chg=au
+[  866.951130] healthd: battery l=100 v=4376 t=33.0 h=2 st=2 c=-191000 fc=4939000 cc=0 chg=au
+[  867.339681] jlq_cm: JCMREC: OCV:4298000 Volt:4376000 Cur:-191000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4912000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  873.916076] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[  873.925901] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[  873.925923] healthd: battery l=100 v=4349 t=33.2 h=2 st=2 c=76000 fc=4939000 cc=0 chg=au
+[  873.927035] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[  873.934957] healthd: battery l=100 v=4349 t=33.2 h=2 st=2 c=76000 fc=4939000 cc=0 chg=au
+[  882.883213] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[  882.886595] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[  882.887628] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[  882.889974] healthd: battery l=100 v=4370 t=33.2 h=2 st=2 c=-114000 fc=4939000 cc=0 chg=au
+[  882.900893] healthd: battery l=100 v=4370 t=33.2 h=2 st=2 c=-114000 fc=4939000 cc=0 chg=au
+[  893.534094] type=1400 audit(1781485834.757:4545): avc: denied { write } for comm=".screenrecorder" name="MIUIScreenRecorderLiteGlobal" dev="dm-12" ino=2144 scontext=u:r:system_app:s0 tcontext=u:object_r:apk_data_file:s0 tclass=dir permissive=0
+[  893.966827] type=1400 audit(1781485835.189:4546): avc: denied { write } for comm="GmsDynamite" name="tasks" dev="cgroup" ino=21 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.milink.service
+[  898.059728] jlq_cm: JCMREC: OCV:4298000 Volt:4382000 Cur:-241000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4913000 Cfull:4939000 Chg:1 ibus:480000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  899.105270] init: processing action (sys.tp.grip_enable=90) from (/system/etc/init/hw/init.rc:1133)
+[  899.108714] [LCT_TP_GRIP_AREA] lct_proc_tp_grip_area_write (line 192): Set screen angle = 90
+[  911.535094] healthd: battery l=100 v=4367 t=33.3 h=2 st=2 c=-149000 fc=4939000 cc=0 chg=au
+[  916.784148] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[  916.789699] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[  916.790649] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[  916.792201] healthd: battery l=100 v=4349 t=33.4 h=2 st=2 c=90000 fc=4939000 cc=0 chg=au
+[  916.801639] healthd: battery l=100 v=4349 t=33.4 h=2 st=2 c=90000 fc=4939000 cc=0 chg=au
+[  920.771987] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[  920.777530] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[  920.778127] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[  920.779001] healthd: battery l=100 v=4379 t=33.2 h=2 st=2 c=-219000 fc=4939000 cc=0 chg=au
+[  920.793191] healthd: battery l=100 v=4379 t=33.2 h=2 st=2 c=-219000 fc=4939000 cc=0 chg=au
+[  921.468743] type=1400 audit(1781485862.693:4547): avc: denied { write } for comm=4173796E635461736B202331 name="tasks" dev="cgroup" ino=21 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.google.android.packageinstaller
+[  924.037110] type=1400 audit(1781485865.261:4548): avc: denied { write } for comm=43726173686C797469637320457863 name="tasks" dev="cgroup" ino=21 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.miui.global.packageinstaller
+[  926.987552] type=1400 audit(1781485868.201:4549): avc: denied { read } for comm=".android.camera" name="u:object_r:vendor_panel_info_prop:s0" dev="tmpfs" ino=1305 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:vendor_panel_info_prop:s0 tclass=file permissive=0 app=com.android.camera
+[  927.585657] type=1400 audit(1781485868.809:4550): avc: denied { write } for comm="file-logger" name="tasks" dev="cgroup" ino=21 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.android.camera
+[  928.787800] jlq_cm: JCMREC: OCV:4298000 Volt:4363000 Cur:-142000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4914000 Cfull:4939000 Chg:1 ibus:480000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  931.739889] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[  931.754152] healthd: battery l=100 v=4331 t=33.6 h=2 st=2 c=222000 fc=4939000 cc=0 chg=au
+[  931.755271] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[  931.756431] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[  931.766937] healthd: battery l=100 v=4331 t=33.6 h=2 st=2 c=222000 fc=4939000 cc=0 chg=au
+[  931.963175] type=1400 audit(1781485873.185:4551): avc: denied { write } for comm=4173796E635461736B202332 name="tasks" dev="cgroup" ino=21 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.miui.micloudsync
+[  932.846502] init: processing action (sys.tp.grip_enable=0) from (/system/etc/init/hw/init.rc:1129)
+[  932.847330] [LCT_TP_GRIP_AREA] lct_proc_tp_grip_area_write (line 192): Set screen angle = 0
+[  934.728306] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[  934.736405] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[  934.737586] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[  934.741430] healthd: battery l=100 v=4368 t=33.4 h=2 st=2 c=-100000 fc=4939000 cc=0 chg=au
+[  934.751947] healthd: battery l=100 v=4368 t=33.4 h=2 st=2 c=-100000 fc=4939000 cc=0 chg=au
+[  934.818737] binder: release 17282:17575 transaction 686214 out, still active
+[  934.818745] binder: undelivered TRANSACTION_COMPLETE
+[  934.949889] type=1400 audit(1781485876.173:4552): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  934.999905] type=1400 audit(1781485876.225:4553): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  935.053036] binder: 17578:17596 transaction failed 29189/0, size 220-8 line 2976
+[  935.053068] binder: send failed reply for transaction 686214, target dead
+[  943.213988] type=1400 audit(1781485884.437:4554): avc: denied { write } for comm=43726173686C797469637320457863 name="tasks" dev="cgroup" ino=21 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.xiaomi.discover
+[  944.214697] type=1400 audit(1781485885.433:4555): avc: denied { write } for comm="httpDnsDb0" name="tasks" dev="cgroup" ino=21 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.xiaomi.mipicks
+[  944.694945] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[  944.702816] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[  944.705291] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[  944.705466] healthd: battery l=100 v=4346 t=33.7 h=2 st=2 c=97000 fc=4939000 cc=0 chg=au
+[  944.715143] healthd: battery l=100 v=4346 t=33.7 h=2 st=2 c=97000 fc=4939000 cc=0 chg=au
+[  948.687648] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[  948.692394] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[  948.693783] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[  948.693922] healthd: battery l=100 v=4366 t=33.6 h=2 st=2 c=-110000 fc=4939000 cc=0 chg=au
+[  948.701304] healthd: battery l=100 v=4366 t=33.6 h=2 st=2 c=-110000 fc=4939000 cc=0 chg=au
+[  954.465360] type=1400 audit(1781485895.685:4556): avc: granted { execute } for comm="Thread-4" name="termux-bootstrap-second-stage.sh" dev="dm-12" ino=12034 scontext=u:r:untrusted_app_27:s0:c16,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c16,c257,c512,c768 tclass=file app=com.termux
+[  954.468558] type=1400 audit(1781485895.685:4557): avc: granted { execute_no_trans } for comm="Thread-4" path="/data/data/com.termux/files/usr/etc/termux/bootstrap/termux-bootstrap-second-stage.sh" dev="dm-12" ino=12034 scontext=u:r:untrusted_app_27:s0:c16,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c16,c257,c512,c768 tclass=file app=com.termux
+[  954.471179] type=1400 audit(1781485895.689:4558): avc: granted { execute } for comm="Thread-4" name="bash" dev="dm-12" ino=11851 scontext=u:r:untrusted_app_27:s0:c16,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c16,c257,c512,c768 tclass=file app=com.termux
+[  954.473680] type=1400 audit(1781485895.689:4559): avc: granted { execute } for comm="termux-bootstra" path="/data/data/com.termux/files/usr/bin/bash" dev="dm-12" ino=11851 scontext=u:r:untrusted_app_27:s0:c16,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c16,c257,c512,c768 tclass=file app=com.termux
+[  954.479605] type=1400 audit(1781485895.701:4560): avc: granted { execute } for comm="termux-bootstra" path="/data/data/com.termux/files/usr/lib/libreadline.so.8.2" dev="dm-12" ino=15417 scontext=u:r:untrusted_app_27:s0:c16,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c16,c257,c512,c768 tclass=file app=com.termux
+[  954.481891] type=1400 audit(1781485895.701:4561): avc: granted { execute } for comm="termux-bootstra" path="/data/data/com.termux/files/usr/lib/libncursesw.so.6.5" dev="dm-12" ino=15421 scontext=u:r:untrusted_app_27:s0:c16,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c16,c257,c512,c768 tclass=file app=com.termux
+[  954.484256] type=1400 audit(1781485895.705:4562): avc: granted { execute } for comm="termux-bootstra" path="/data/data/com.termux/files/usr/lib/libiconv.so" dev="dm-12" ino=15588 scontext=u:r:untrusted_app_27:s0:c16,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c16,c257,c512,c768 tclass=file app=com.termux
+[  954.489681] type=1400 audit(1781485895.705:4563): avc: granted { execute } for comm="termux-bootstra" path="/data/data/com.termux/files/usr/lib/libandroid-support.so" dev="dm-12" ino=14954 scontext=u:r:untrusted_app_27:s0:c16,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c16,c257,c512,c768 tclass=file app=com.termux
+[  954.491283] audit: audit_lost=3693 audit_rate_limit=5 audit_backlog_limit=64
+[  954.491288] audit: rate limit exceeded
+[  955.880490] type=1400 audit(1781485897.105:4768): avc: denied { write } for comm=43726173686C797469637320457863 name="tasks" dev="cgroup" ino=21 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.miui.global.packageinstaller
+[  959.499736] jlq_cm: JCMREC: OCV:4298000 Volt:4382000 Cur:-85000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4914000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  960.801063] type=1400 audit(1781485902.025:4769): avc: denied { read } for comm=".android.camera" name="u:object_r:vendor_panel_info_prop:s0" dev="tmpfs" ino=1305 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:vendor_panel_info_prop:s0 tclass=file permissive=0 app=com.android.camera
+[  960.939893] type=1400 audit(1781485902.161:4770): avc: denied { write } for comm="file-logger" name="tasks" dev="cgroup" ino=21 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.android.camera
+[  971.535625] healthd: battery l=100 v=4382 t=33.6 h=2 st=2 c=-260000 fc=4939000 cc=0 chg=au
+[  971.678963] type=1400 audit(1781485912.901:4771): avc: denied { write } for comm=".screenrecorder" name="MIUIScreenRecorderLiteGlobal" dev="dm-12" ino=2144 scontext=u:r:system_app:s0 tcontext=u:object_r:apk_data_file:s0 tclass=dir permissive=0
+[  971.999305] type=1400 audit(1781485913.221:4772): avc: denied { write } for comm="GmsDynamite" name="tasks" dev="cgroup" ino=21 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.milink.service
+[  983.551505] type=1400 audit(1781485924.773:4773): avc: denied { write } for comm=4173796E635461736B202331 name="tasks" dev="cgroup" ino=21 scontext=u:r:untrusted_app:s0:c3,c257,c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.miui.weather2
+[  985.075495] binder_cleanup_transaction: 9 callbacks suppressed
+[  985.075504] binder: undelivered transaction 734743, process died.
+[  985.206612] type=1400 audit(1781485926.429:4774): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  985.246657] type=1400 audit(1781485926.469:4775): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  985.280597] type=1400 audit(1781485926.505:4776): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  985.296177] type=1400 audit(1781485926.521:4777): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  985.518882] binder: undelivered transaction 735460, process died.
+[  985.518890] binder: undelivered transaction 735461, process died.
+[  985.518977] binder: undelivered transaction 735459, process died.
+[  985.534107] type=1400 audit(1781485926.757:4778): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  985.548221] type=1400 audit(1781485926.773:4779): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[  985.570739] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[  985.575056] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[  985.576239] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[  985.579682] healthd: battery l=100 v=4357 t=33.7 h=2 st=2 c=-24000 fc=4939000 cc=0 chg=au
+[  985.587863] healthd: battery l=100 v=4357 t=33.7 h=2 st=2 c=-24000 fc=4939000 cc=0 chg=au
+[  986.568515] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[  986.573229] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[  986.573542] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[  986.574861] healthd: battery l=100 v=4372 t=33.6 h=2 st=2 c=-138000 fc=4939000 cc=0 chg=au
+[  986.582858] healthd: battery l=100 v=4372 t=33.6 h=2 st=2 c=-138000 fc=4939000 cc=0 chg=au
+[  990.219646] jlq_cm: JCMREC: OCV:4298000 Volt:4372000 Cur:-138000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4916000 Cfull:4939000 Chg:1 ibus:488000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[  990.523242] type=1400 audit(1781485931.749:4780): avc: denied { getpgid } for comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+[  990.523410] type=1400 audit(1781485931.749:4781): avc: denied { getpgid } for comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+[  990.530726] type=1400 audit(1781485931.753:4782): avc: denied { getpgid } for comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+[  990.530882] type=1400 audit(1781485931.753:4783): avc: denied { getpgid } for comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+[  990.538740] type=1400 audit(1781485931.757:4784): avc: denied { getpgid } for comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+[  990.538900] type=1400 audit(1781485931.757:4785): avc: denied { getpgid } for comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+[  990.542334] type=1400 audit(1781485931.765:4786): avc: denied { getpgid } for comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+[  990.542495] type=1400 audit(1781485931.765:4787): avc: denied { getpgid } for comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+[ 1015.185143] type=1400 audit(1781485956.401:4788): avc: granted { execute } for comm="bash" name="su" dev="dm-12" ino=11829 scontext=u:r:untrusted_app_27:s0:c16,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c16,c257,c512,c768 tclass=file app=com.termux
+[ 1015.191696] type=1400 audit(1781485956.401:4789): avc: granted { execute } for comm="bash" name="dash" dev="dm-12" ino=11698 scontext=u:r:untrusted_app_27:s0:c16,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c16,c257,c512,c768 tclass=file app=com.termux
+[ 1015.194909] type=1400 audit(1781485956.401:4790): avc: granted { execute_no_trans } for comm="bash" path="/data/data/com.termux/files/usr/bin/dash" dev="dm-12" ino=11698 scontext=u:r:untrusted_app_27:s0:c16,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c16,c257,c512,c768 tclass=file app=com.termux
+[ 1015.197840] type=1400 audit(1781485956.405:4791): avc: granted { execute } for comm="sh" path="/data/data/com.termux/files/usr/bin/dash" dev="dm-12" ino=11698 scontext=u:r:untrusted_app_27:s0:c16,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c16,c257,c512,c768 tclass=file app=com.termux
+[ 1015.201710] type=1400 audit(1781485956.421:4792): avc: granted { execute } for comm="sh" path="/data/data/com.termux/files/usr/lib/libtermux-exec-ld-preload.so" dev="dm-12" ino=19040 scontext=u:r:untrusted_app_27:s0:c16,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c16,c257,c512,c768 tclass=file app=com.termux
+[ 1017.886988] type=1400 audit(1781485959.109:4793): avc: denied { ioctl } for comm="su" path="/dev/pts/0" dev="devpts" ino=3 ioctlcmd=0x5404 scontext=u:r:untrusted_app_27:s0:c16,c257,c512,c768 tcontext=u:object_r:untrusted_app_all_devpts:s0:c16,c257,c512,c768 tclass=chr_file permissive=0 app=com.termux
+[ 1020.943778] jlq_cm: JCMREC: OCV:4298000 Volt:4370000 Cur:-113000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4918000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1031.534916] healthd: battery l=100 v=4372 t=33.6 h=2 st=2 c=-164000 fc=4939000 cc=0 chg=au
+[ 1038.160792] type=1400 audit(1781485979.385:4794): avc: denied { write } for comm=43724173796E635461736B202331 name="tasks" dev="cgroup" ino=21 scontext=u:r:untrusted_app:s0:c219,c256,c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.android.chrome
+[ 1041.410850] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[ 1041.414257] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[ 1041.414826] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[ 1041.418256] healthd: battery l=100 v=4347 t=33.7 h=2 st=2 c=94000 fc=4939000 cc=0 chg=au
+[ 1041.426227] healthd: battery l=100 v=4347 t=33.7 h=2 st=2 c=94000 fc=4939000 cc=0 chg=au
+[ 1044.394775] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[ 1044.398618] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[ 1044.399230] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[ 1044.399881] healthd: battery l=100 v=4355 t=33.6 h=2 st=2 c=-81000 fc=4939000 cc=0 chg=au
+[ 1044.409984] healthd: battery l=100 v=4355 t=33.6 h=2 st=2 c=-81000 fc=4939000 cc=0 chg=au
+[ 1048.872222] binder: undelivered transaction 774062, process died.
+[ 1048.872231] binder: undelivered transaction 774064, process died.
+[ 1048.872363] binder: undelivered transaction 774060, process died.
+[ 1048.893921] type=1400 audit(1781485990.117:4795): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1048.909372] type=1400 audit(1781485990.133:4796): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1051.659706] jlq_cm: JCMREC: OCV:4299000 Volt:4366000 Cur:-54000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4919000 Cfull:4939000 Chg:1 ibus:492000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1060.346910] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[ 1060.351840] healthd: battery l=100 v=4353 t=33.9 h=2 st=2 c=60000 fc=4939000 cc=0 chg=au
+[ 1060.352483] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[ 1060.352940] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[ 1060.359542] healthd: battery l=100 v=4353 t=33.9 h=2 st=2 c=60000 fc=4939000 cc=0 chg=au
+[ 1065.128553] binder: undelivered transaction 782385, process died.
+[ 1065.128668] binder: undelivered transaction 782383, process died.
+[ 1065.181801] type=1400 audit(1781486006.405:4797): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1065.216980] type=1400 audit(1781486006.441:4798): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1066.326755] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[ 1066.330838] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[ 1066.333285] healthd: battery l=100 v=4370 t=33.7 h=2 st=2 c=-142000 fc=4939000 cc=0 chg=au
+[ 1066.333733] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[ 1066.346223] healthd: battery l=100 v=4370 t=33.7 h=2 st=2 c=-142000 fc=4939000 cc=0 chg=au
+[ 1081.485967] type=1400 audit(1781486022.709:4799): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1081.529163] type=1400 audit(1781486022.753:4800): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1082.379668] jlq_cm: JCMREC: OCV:4299000 Volt:4344000 Cur:19000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4920000 Cfull:4939000 Chg:1 ibus:488000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1084.506712] binder: undelivered transaction 789701, process died.
+[ 1084.506730] binder: undelivered transaction 789703, process died.
+[ 1084.506813] binder: undelivered transaction 789699, process died.
+[ 1084.528684] type=1400 audit(1781486025.753:4801): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1084.541742] type=1400 audit(1781486025.765:4802): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1091.534472] healthd: battery l=100 v=4360 t=33.9 h=2 st=2 c=-79000 fc=4939000 cc=0 chg=au
+[ 1092.247516] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[ 1092.251459] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[ 1092.252771] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[ 1092.253153] healthd: battery l=100 v=4348 t=34.0 h=2 st=2 c=65000 fc=4939000 cc=0 chg=au
+[ 1092.264965] healthd: battery l=100 v=4348 t=34.0 h=2 st=2 c=65000 fc=4939000 cc=0 chg=au
+[ 1094.242759] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[ 1094.246865] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[ 1094.247461] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[ 1094.249037] healthd: battery l=100 v=4351 t=34.0 h=2 st=2 c=22000 fc=4939000 cc=0 chg=au
+[ 1094.256916] healthd: battery l=100 v=4351 t=34.0 h=2 st=2 c=22000 fc=4939000 cc=0 chg=au
+[ 1094.887609] binder: undelivered transaction 795032, process died.
+[ 1094.887619] binder: undelivered transaction 795034, process died.
+[ 1094.887748] binder: undelivered transaction 795029, process died.
+[ 1094.925769] type=1400 audit(1781486036.149:4803): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1094.957136] type=1400 audit(1781486036.181:4804): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1101.122144] binder: undelivered transaction 799639, process died.
+[ 1101.122151] binder: undelivered transaction 799641, process died.
+[ 1101.122251] binder: undelivered transaction 799635, process died.
+[ 1101.184164] type=1400 audit(1781486042.409:4805): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1101.196005] binder: undelivered transaction 799872, process died.
+[ 1101.229091] type=1400 audit(1781486042.453:4806): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1101.271041] type=1400 audit(1781486042.497:4807): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1101.285238] type=1400 audit(1781486042.509:4808): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1104.406255] type=1400 audit(1781486045.629:4809): avc: denied { write } for comm=4173796E635461736B202331 name="tasks" dev="cgroup" ino=21 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.google.android.packageinstaller
+[ 1107.200721] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[ 1107.212871] healthd: battery l=100 v=4357 t=34.0 h=2 st=2 c=51000 fc=4939000 cc=0 chg=au
+[ 1107.224572] healthd: battery l=100 v=4357 t=34.0 h=2 st=2 c=51000 fc=4939000 cc=0 chg=au
+[ 1107.243801] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[ 1107.265720] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[ 1108.071031] type=1400 audit(1781486049.293:4810): avc: denied { write } for comm=4173796E635461736B202331 name="tasks" dev="cgroup" ino=21 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.miui.micloudsync
+[ 1110.191806] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[ 1110.196250] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[ 1110.196884] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[ 1110.197286] healthd: battery l=100 v=4375 t=34.0 h=2 st=2 c=-108000 fc=4939000 cc=0 chg=au
+[ 1110.212930] healthd: battery l=100 v=4375 t=34.0 h=2 st=2 c=-108000 fc=4939000 cc=0 chg=au
+[ 1112.498210] binder: undelivered transaction 820026, process died.
+[ 1112.556618] type=1400 audit(1781486053.781:4811): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1112.599652] type=1400 audit(1781486053.825:4812): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1113.103786] jlq_cm: JCMREC: OCV:4299000 Volt:4375000 Cur:-108000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4921000 Cfull:4939000 Chg:1 ibus:480000 vbus:4700000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1114.530476] type=1400 audit(1781486055.753:4813): avc: denied { read } for comm=".android.camera" name="u:object_r:vendor_panel_info_prop:s0" dev="tmpfs" ino=1305 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:vendor_panel_info_prop:s0 tclass=file permissive=0 app=com.android.camera
+[ 1114.649563] type=1400 audit(1781486055.873:4814): avc: denied { write } for comm="file-logger" name="tasks" dev="cgroup" ino=21 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.android.camera
+[ 1118.373947] init: Untracked pid 14370 exited with status 0
+[ 1118.456779] type=1400 audit(1781486059.681:4815): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1118.506806] type=1400 audit(1781486059.733:4816): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1118.574745] binder: undelivered transaction 828821, process died.
+[ 1118.574754] binder: undelivered transaction 828822, process died.
+[ 1121.243087] type=1400 audit(1781486062.465:4817): avc: denied { write } for comm=43726173686C797469637320457863 name="tasks" dev="cgroup" ino=21 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.xiaomi.discover
+[ 1121.981710] type=1400 audit(1781486063.201:4818): avc: denied { write } for comm=43726173686C797469637320457863 name="tasks" dev="cgroup" ino=21 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.xiaomi.mipicks
+[ 1122.507893] type=1400 audit(1781486063.733:4819): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1122.522237] type=1400 audit(1781486063.745:4820): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1122.667133] type=1400 audit(1781486063.893:4821): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1122.682726] type=1400 audit(1781486063.905:4822): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1122.784594] audit: audit_lost=3897 audit_rate_limit=5 audit_backlog_limit=64
+[ 1122.784599] audit: rate limit exceeded
+[ 1123.153128] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[ 1123.161733] healthd: battery l=100 v=4356 t=34.2 h=2 st=2 c=72000 fc=4939000 cc=0 chg=au
+[ 1123.163773] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[ 1123.165224] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[ 1123.171645] healthd: battery l=100 v=4356 t=34.2 h=2 st=2 c=72000 fc=4939000 cc=0 chg=au
+[ 1126.138683] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[ 1126.145548] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[ 1126.146240] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[ 1126.146406] healthd: battery l=100 v=4380 t=34.0 h=2 st=2 c=-153000 fc=4939000 cc=0 chg=au
+[ 1126.154577] healthd: battery l=100 v=4380 t=34.0 h=2 st=2 c=-153000 fc=4939000 cc=0 chg=au
+[ 1133.844808] cdc_dma_rx_ch_get: cdc_dma_rx_ch  = 1
+[ 1133.845109] cdc_dma_rx_ch_put: cdc_dma_rx_ch = 1
+[ 1133.849518] [debug][sia81xx_driver] sia81xx_power_get: ucontrol = 0, channel_num = 0 \x0d
+[ 1133.849803] [debug][sia81xx_driver] sia81xx_power_set: ucontrol = 1, rst = 0, channel_num = 0 \x0d
+[ 1133.849808] [debug][sia81xx_driver] sia81xx_resume: running \x0d
+[ 1133.849989] [debug][sia81xx_regmap] sia81xx_regmap_defaults: running, chip_type = 3, channel_num = 0 \x0d
+[ 1133.853125] [debug][sia81xx_timer_task] sia81xx_timer_task_processor: cur_run_cnt 1\x0d
+[ 1133.854925] msm_pcm_routing_process_audio: reg bd val 4 set 1
+[ 1133.856016] msm_pcm_open: fe_id 4 substream->stream 0 session_type 1 stream_id 1
+[ 1133.856132] msm_be_hw_params_fixup: format = 2, rate = 48000 channel = 2
+[ 1133.856159] rx_macro rx-macro: rx_macro_get_channel_map: dai->id:2, ch_mask:0x1, active_ch_cnt:1 active_mask: 0x10
+[ 1133.856165] msm_snd_cdc_dma_hw_params: id 1 rx_ch=1
+[ 1133.856173] msm_be_hw_params_fixup: format = 2, rate = 48000 channel = 1
+[ 1133.856186] bolero-codec 0.soc:bolero-cdc: rx_macro_hw_params: dai_name = rx_macro_rx2 DAI-ID 2 rate 48000 num_ch 1, stream 0
+[ 1133.856212] msm_be_hw_params_fixup: format = 2, rate = 48000 channel = 1
+[ 1133.856222] jlqaudio_get_dsp_be_id: port_id 0xB032
+[ 1133.856230] afe_port_open: device id[0x82] port_id[0xb032], sample_rate[48000] channel[1] sample_bytes[2] interleave[1]
+[ 1133.856251] msm_pcm_hw_params:buffer_bytes 3072,periods 4,period_size 192,rate 48000,channels 2
+[ 1133.856256] q6asm_audio_client_buf_alloc_contiguous: session[1]bufsz[768]bufcnt[4]
+[ 1133.857879] msm_pcm_routing_prepare: substream->pcm->id:(RX CDC DMA1 Playback)
+[ 1133.858692] wcd937x_codec wcd937x-codec: wcd937x_codec_enable_vdd_buck wname: VDD_BUCK event: 1
+[ 1133.858977] rx_macro_config_classh: inter 0x2, ear mode 0x0
+[ 1133.858998] rx_macro_enable_main_path: path clk 0x34, reg 0x1500, 0x144 0x83, 0x610 0xffff
+[ 1133.859047] va_macro_swrm_clock: swrm clock enable tx_swr_clk_cnt: 0 va_swr_clk_cnt: 0
+[ 1133.859058] va_macro va-macro: va_macro_tx_va_mclk_enable: clock type TX_MCLK, enable: enable tx_mclk_users: 0
+[ 1133.859074] va_macro va-macro: va_macro_tx_va_mclk_enable: reset_swr: 0
+[ 1133.864641] rx_swrm_clock: swrm clock enable
+[ 1133.864886] wcd937x_codec wcd937x-codec: wcd937x_codec_enable_aux_pa wname: AUX PGA event: 1
+[ 1133.868321] wcd937x_codec wcd937x-codec: wcd937x_codec_enable_aux_pa wname: AUX PGA event: 2
+[ 1133.869410] rx_macro_event_handler, event 0x1
+[ 1133.869840] rx_macro_digital_mute: dai 0x2, dsm reg 0x8,idx 0x0, cfg0 0x0,cfg1 0x0
+[ 1133.869849] rx_macro_digital_mute: dai 0x2, dsm reg 0x8,idx 0x1, cfg0 0x0,cfg1 0x0
+[ 1133.869857] rx_macro_digital_mute: dai 0x2, dsm reg 0x1,idx 0x2, cfg0 0x9,cfg1 0x0
+[ 1133.869889] __q6asm_open_write: token(0x100) stream_id(1) session(0x1),rate(48000) channels(2) bits(16)
+[ 1133.870047] jlqaudio_get_dsp_be_id: port_id 0xB032
+[ 1133.870055] jlqaudio_get_dsp_fe_id: port_id:4 session_type:0 fdai_id:129
+[ 1133.870060] msm_pcm_routing_build_matrix: =CONNECT= fe 0x81 to be 0x82
+[ 1133.874970] q6asm_write_nolock: bufadd[0x97404000]dsp_buf[0x0]buf_size[0x300] token[0x2000000]
+[ 1133.875180] q6asm_write: bufadd[0x97404300]dsp_buf[0x1]buf_size[0x300] token[0x2010000]
+[ 1133.875332] q6asm_write: bufadd[0x97404600]dsp_buf[0x2]buf_size[0x300] token[0x2020000]
+[ 1134.930618] [debug][sia81xx_set_vdd] sia81xx_get_battery_voltage: average vdd = 4380000, n = 3 \x0d
+[ 1134.942567] [ debug][sia81xx_afe_jlq] check_cal_block: afe[0x0002] map buffer success! handle = 0x00000000 \x0d
+[ 1134.943093] [ debug][sia81xx_afe_jlq] sia81xx_afe_callback: opcode:0x110e8, payload size:8
+[ 1134.943097] [ debug][sia81xx_afe_jlq] sia81xx_afe_callback: payload[0]:0x8800, payload[1]:0
+[ 1134.943125] [debug][sia81xx_afe_jlq] sia81xx_afe_send: afe send ret = 68, handle 0x00000000, module_id 0x1000e900, param_id 0x1000ea03, size 36 \x0d
+[ 1135.082611] swr-wcd va_swr_ctrl: swrm_runtime_suspend ports are disabled, 0x0, 0x0, 0x0
+[ 1135.082635] swrm_runtime_suspend: swr clock stop!
+[ 1135.082978] va_macro_swrm_clock: swrm clock disable tx_swr_clk_cnt: 0 va_swr_clk_cnt: 0
+[ 1135.082989] va_macro va-macro: va_macro_tx_va_mclk_enable: clock type TX_MCLK, enable: disable tx_mclk_users: 0
+[ 1138.130943] msm_pcm_playback_close: session_type 1  stream_id 1
+[ 1138.166656] jlqaudio_get_dsp_be_id: port_id 0xB032
+[ 1138.166670] jlqaudio_get_dsp_fe_id: port_id:4 session_type:0 fdai_id:129
+[ 1138.166678] msm_pcm_routing_destroy_matrix: =DISCONNECT= fe 0x81 with be 0x82
+[ 1138.171486] jlqaudio_get_dsp_be_id: port_id 0xB032
+[ 1138.171493] afe_close_port: device id = 0x82
+[ 1138.171511] __q6asm_cmd: CMD_CLOSE
+[ 1138.172837] wcd937x_codec wcd937x-codec: wcd937x_codec_enable_aux_pa wname: AUX PGA event: 4
+[ 1138.172935] va_macro_swrm_clock: swrm clock enable tx_swr_clk_cnt: 0 va_swr_clk_cnt: 0
+[ 1138.172963] va_macro va-macro: va_macro_tx_va_mclk_enable: clock type TX_MCLK, enable: enable tx_mclk_users: 0
+[ 1138.172994] va_macro va-macro: va_macro_tx_va_mclk_enable: reset_swr: 0
+[ 1138.173539] rx_macro_event_handler, event 0x1
+[ 1138.174483] wcd937x_codec wcd937x-codec: wcd937x_codec_enable_aux_pa wname: AUX PGA event: 8
+[ 1138.187279] wcd937x_codec wcd937x-codec: wcd937x_codec_enable_vdd_buck wname: VDD_BUCK event: 8
+[ 1138.189458] msm_pcm_routing_process_audio: reg bd val 4 set 0
+[ 1138.189472] msm_pcm_routing_process_audio:fe 4 and be bd already disconnected
+[ 1138.191995] [debug][sia81xx_driver] sia81xx_power_get: ucontrol = 1, channel_num = 0 \x0d
+[ 1138.192542] [debug][sia81xx_driver] sia81xx_power_set: ucontrol = 0, rst = 0, channel_num = 0 \x0d
+[ 1138.192550] [debug][sia81xx_driver] sia81xx_suspend: running \x0d
+[ 1138.307665] cdc_dma_rx_ch_get: cdc_dma_rx_ch  = 0
+[ 1138.307996] cdc_dma_rx_ch_put: cdc_dma_rx_ch = 2
+[ 1139.410237] swr-wcd va_swr_ctrl: swrm_runtime_suspend ports are disabled, 0x0, 0x0, 0x0
+[ 1139.410270] swrm_runtime_suspend: swr clock stop!
+[ 1139.410342] swr-wcd rx_swr_ctrl: swrm_runtime_suspend ports are disabled, 0x0, 0x0, 0x0
+[ 1139.410359] swrm_runtime_suspend: swr clock stop!
+[ 1139.410806] rx_swrm_clock: swrm clock disable
+[ 1139.410914] va_macro_swrm_clock: swrm clock disable tx_swr_clk_cnt: 0 va_swr_clk_cnt: 0
+[ 1139.410931] va_macro va-macro: va_macro_tx_va_mclk_enable: clock type TX_MCLK, enable: disable tx_mclk_users: 0
+[ 1139.516311] type=1400 audit(1781486080.737:4825): avc: denied { write } for comm=43726173686C797469637320457863 name="tasks" dev="cgroup" ino=21 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.miui.global.packageinstaller
+[ 1143.819912] jlq_cm: JCMREC: OCV:4299000 Volt:4373000 Cur:-152000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4922000 Cfull:4939000 Chg:1 ibus:484000 vbus:4700000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1151.537512] healthd: battery l=100 v=4377 t=34.0 h=2 st=2 c=-205000 fc=4939000 cc=0 chg=au
+[ 1156.516985] type=1400 audit(1781486097.737:4826): avc: denied { write } for comm=43726173686C797469637320457863 name="tasks" dev="cgroup" ino=21 scontext=u:r:untrusted_app:s0:c14,c257,c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.preff.kb.xm
+[ 1164.841615] type=1400 audit(1781486106.061:4827): avc: denied { read } for comm=".android.camera" name="u:object_r:vendor_panel_info_prop:s0" dev="tmpfs" ino=1305 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:vendor_panel_info_prop:s0 tclass=file permissive=0 app=com.android.camera
+[ 1164.984137] type=1400 audit(1781486106.201:4828): avc: denied { write } for comm="file-logger" name="tasks" dev="cgroup" ino=21 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.android.camera
+[ 1165.070423] reg 0x0 0x80000000 0x1 0x0
+[ 1165.070428] DDR_left 0,10000,100
+[ 1165.070430] DDR_size 100000000
+[ 1165.070431] memblock_mem_size 4
+[ 1174.539811] jlq_cm: JCMREC: OCV:4299000 Volt:4385000 Cur:-200000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4923000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1200.740108] type=1400 audit(1781486141.961:4829): avc: denied { write } for comm="lowpool[0]" name="tasks" dev="cgroup" ino=21 scontext=u:r:gmscore_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.google.android.gms
+[ 1205.263692] jlq_cm: JCMREC: OCV:4300000 Volt:4376000 Cur:6000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4925000 Cfull:4939000 Chg:1 ibus:480000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1209.330560] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 431
+[ 1209.346569] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 430
+[ 1209.362584] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 429
+[ 1209.378593] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 428
+[ 1209.394558] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 427
+[ 1209.410559] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 426
+[ 1209.426562] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 425
+[ 1209.446569] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 424
+[ 1209.478560] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 423
+[ 1209.494559] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 422
+[ 1209.510562] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 421
+[ 1209.530581] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 420
+[ 1209.562560] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 419
+[ 1209.578597] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 418
+[ 1209.594579] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 417
+[ 1209.610559] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 416
+[ 1209.646561] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 415
+[ 1209.662564] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 414
+[ 1209.678560] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 413
+[ 1209.694562] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 412
+[ 1209.730559] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 411
+[ 1209.746557] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 410
+[ 1209.762571] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 409
+[ 1209.782556] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 408
+[ 1209.834595] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 407
+[ 1211.543749] healthd: battery l=100 v=4376 t=34.0 h=2 st=2 c=-180000 fc=4939000 cc=0 chg=au
+[ 1218.038697] type=1400 audit(1781486159.261:4830): avc: denied { write } for comm="ExUtils-P11-1" name="tasks" dev="cgroup" ino=21 scontext=u:r:untrusted_app:s0:c218,c256,c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.google.android.inputmethod.latin
+[ 1220.224654] type=1400 audit(1781486161.449:4831): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1220.311869] type=1400 audit(1781486161.537:4832): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1222.448384] binder: undelivered transaction 930390, process died.
+[ 1222.448399] binder: undelivered transaction 930391, process died.
+[ 1222.448403] binder: undelivered transaction 930392, process died.
+[ 1222.448406] binder: undelivered transaction 930393, process died.
+[ 1222.448409] binder: undelivered transaction 930394, process died.
+[ 1222.448412] binder: undelivered transaction 930395, process died.
+[ 1222.448415] binder: undelivered transaction 930396, process died.
+[ 1223.278230] type=1400 audit(1781486164.497:4833): avc: denied { write } for comm="ExtraCallsProvi" name="tasks" dev="cgroup" ino=21 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.android.calllogbackup
+[ 1223.839263] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[ 1223.846385] healthd: battery l=100 v=4350 t=34.1 h=2 st=2 c=74000 fc=4939000 cc=0 chg=au
+[ 1223.848568] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[ 1223.849714] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[ 1223.857295] healthd: battery l=100 v=4350 t=34.1 h=2 st=2 c=74000 fc=4939000 cc=0 chg=au
+[ 1224.835008] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[ 1224.840980] healthd: battery l=100 v=4362 t=34.0 h=2 st=2 c=-97000 fc=4939000 cc=0 chg=au
+[ 1224.842390] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[ 1224.842745] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[ 1224.851454] healthd: battery l=100 v=4362 t=34.0 h=2 st=2 c=-97000 fc=4939000 cc=0 chg=au
+[ 1228.302981] type=1400 audit(1781486169.525:4834): avc: denied { write } for comm=43726173686C797469637320457863 name="tasks" dev="cgroup" ino=21 scontext=u:r:untrusted_app:s0:c14,c257,c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.preff.kb.xm
+[ 1228.822932] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[ 1228.829410] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[ 1228.830709] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[ 1228.830821] healthd: battery l=100 v=4357 t=34.2 h=2 st=2 c=62000 fc=4939000 cc=0 chg=au
+[ 1228.842834] healthd: battery l=100 v=4357 t=34.2 h=2 st=2 c=62000 fc=4939000 cc=0 chg=au
+[ 1228.891541] type=1400 audit(1781486170.113:4835): avc: denied { write } for comm=43726173686C797469637320457863 name="tasks" dev="cgroup" ino=21 scontext=u:r:untrusted_app:s0:c14,c257,c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.preff.kb.xm
+[ 1229.818661] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[ 1229.822809] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[ 1229.823389] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[ 1229.824899] healthd: battery l=100 v=4381 t=34.0 h=2 st=2 c=-172000 fc=4939000 cc=0 chg=au
+[ 1229.832898] healthd: battery l=100 v=4381 t=34.0 h=2 st=2 c=-172000 fc=4939000 cc=0 chg=au
+[ 1233.350820] type=1400 audit(1781486174.573:4836): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1233.390069] type=1400 audit(1781486174.613:4837): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1235.979723] jlq_cm: JCMREC: OCV:4300000 Volt:4383000 Cur:-208000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4926000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1252.702359] type=1400 audit(1781486193.925:4838): avc: denied { read } for comm=".android.camera" name="u:object_r:vendor_panel_info_prop:s0" dev="tmpfs" ino=1305 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:vendor_panel_info_prop:s0 tclass=file permissive=0 app=com.android.camera
+[ 1252.826428] type=1400 audit(1781486194.049:4839): avc: denied { write } for comm="file-logger" name="tasks" dev="cgroup" ino=21 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.android.camera
+[ 1253.731510] type=1400 audit(1781486194.957:4840): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1253.765391] type=1400 audit(1781486194.989:4841): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1266.699690] jlq_cm: JCMREC: OCV:4300000 Volt:4381000 Cur:-185000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4928000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1269.297497] type=1400 audit(1781486210.521:4842): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1269.311175] type=1400 audit(1781486210.537:4843): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1271.537420] healthd: battery l=100 v=4383 t=34.0 h=2 st=2 c=-274000 fc=4939000 cc=0 chg=au
+[ 1283.053515] type=1400 audit(1781486224.273:4844): avc: denied { write } for comm=426C6F636B696E6720546872656164 name="tasks" dev="cgroup" ino=21 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.google.android.dialer
+[ 1283.813477] type=1400 audit(1781486225.037:4845): avc: denied { write } for comm=426C6F636B696E6720546872656164 name="tasks" dev="cgroup" ino=21 scontext=u:r:untrusted_app:s0:c223,c256,c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.google.android.tts
+[ 1297.419771] jlq_cm: JCMREC: OCV:4301000 Volt:4384000 Cur:-288000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4930000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1308.146794] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 408
+[ 1308.482625] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 409
+[ 1308.646646] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 410
+[ 1308.810663] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 411
+[ 1308.966641] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 412
+[ 1309.298613] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 413
+[ 1309.466628] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 414
+[ 1309.634817] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 415
+[ 1309.802622] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 416
+[ 1310.134631] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 417
+[ 1310.302651] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 418
+[ 1310.470698] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 419
+[ 1310.638609] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 420
+[ 1310.975428] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 421
+[ 1311.138634] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 422
+[ 1311.306614] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 423
+[ 1311.478661] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 424
+[ 1311.806679] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 425
+[ 1311.974657] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 426
+[ 1312.142652] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 427
+[ 1328.139817] jlq_cm: JCMREC: OCV:4301000 Volt:4379000 Cur:-230000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4932000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1331.538233] healthd: battery l=100 v=4379 t=33.4 h=2 st=2 c=-230000 fc=4939000 cc=0 chg=au
+[ 1358.859816] jlq_cm: JCMREC: OCV:4302000 Volt:4389000 Cur:-268000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4934000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1389.579793] jlq_cm: JCMREC: OCV:4302000 Volt:4391000 Cur:-284000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4937000 Cfull:4939000 Chg:1 ibus:480000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1391.535439] healthd: battery l=100 v=4391 t=33.2 h=2 st=2 c=-284000 fc=4939000 cc=0 chg=au
+[ 1420.299765] jlq_cm: JCMREC: OCV:4303000 Volt:4387000 Cur:-291000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4939000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1451.019807] jlq_cm: JCMREC: OCV:4303000 Volt:4393000 Cur:-286000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4939000 Cfull:4939000 Chg:1 ibus:488000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1451.535448] healthd: battery l=100 v=4393 t=33.2 h=2 st=2 c=-286000 fc=4939000 cc=0 chg=au
+[ 1481.739674] jlq_cm: JCMREC: OCV:4304000 Volt:4389000 Cur:-221000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4939000 Cfull:4939000 Chg:1 ibus:476000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1511.536313] healthd: battery l=100 v=4391 t=33.2 h=2 st=2 c=-256000 fc=4939000 cc=0 chg=au
+[ 1512.459759] jlq_cm: JCMREC: OCV:4304000 Volt:4391000 Cur:-256000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4939000 Cfull:4939000 Chg:1 ibus:484000 vbus:4700000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1524.933381] type=1400 audit(1781486466.157:4846): avc: denied { write } for comm=4173796E635461736B202331 name="tasks" dev="cgroup" ino=21 scontext=u:r:untrusted_app:s0:c33,c257,c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.lonelycatgames.Xplore
+[ 1525.809704] type=1400 audit(1781486467.033:4847): avc: denied { write } for comm=62674578656375746F72202330 name="tasks" dev="cgroup" ino=21 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.android.vending
+[ 1526.497099] type=1400 audit(1781486467.721:4848): avc: denied { write } for comm="Db-download_ser" name="tasks" dev="cgroup" ino=21 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:cgroup:s0 tclass=file permissive=0 app=com.android.vending
+[ 1527.942915] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[ 1527.949291] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[ 1527.950755] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[ 1527.951137] healthd: battery l=100 v=4368 t=33.3 h=2 st=2 c=-59000 fc=4939000 cc=0 chg=au
+[ 1527.960815] healthd: battery l=100 v=4368 t=33.3 h=2 st=2 c=-59000 fc=4939000 cc=0 chg=au
+[ 1530.932196] [sh366101] fg_refresh_status(2147): sh fg force updata!
+[ 1530.936203] charge_logger: Open path error: '/sys/class/power_supply/usb/typec_mode'
+[ 1530.936817] charge_logger: Open path error: '/sys/class/power_supply/SH366101-0/soh'
+[ 1530.939544] healthd: battery l=100 v=4372 t=33.4 h=2 st=2 c=-99000 fc=4939000 cc=0 chg=au
+[ 1530.951025] healthd: battery l=100 v=4372 t=33.4 h=2 st=2 c=-99000 fc=4939000 cc=0 chg=au
+[ 1543.179791] jlq_cm: JCMREC: OCV:4304000 Volt:4393000 Cur:-288000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4939000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1571.537948] healthd: battery l=100 v=4393 t=33.4 h=2 st=2 c=-257000 fc=4939000 cc=0 chg=au
+[ 1573.899788] jlq_cm: JCMREC: OCV:4304000 Volt:4393000 Cur:-279000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4939000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1604.619826] jlq_cm: JCMREC: OCV:4305000 Volt:4395000 Cur:-270000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4939000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1631.535445] healthd: battery l=100 v=4392 t=33.2 h=2 st=2 c=-239000 fc=4939000 cc=0 chg=au
+[ 1635.339769] jlq_cm: JCMREC: OCV:4306000 Volt:4395000 Cur:-285000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4939000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1666.059765] jlq_cm: JCMREC: OCV:4306000 Volt:4395000 Cur:-286000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4939000 Cfull:4939000 Chg:1 ibus:484000 vbus:4700000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1689.490632] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 408
+[ 1689.506643] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 388
+[ 1689.518618] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 383
+[ 1689.530596] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 364
+[ 1689.542623] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 344
+[ 1689.562613] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 325
+[ 1689.578613] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 305
+[ 1689.594589] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 286
+[ 1689.610613] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 267
+[ 1689.634643] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 248
+[ 1689.646589] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 228
+[ 1689.662623] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 209
+[ 1689.682609] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 189
+[ 1689.694589] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 170
+[ 1689.710614] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 151
+[ 1689.730852] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 132
+[ 1689.746648] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 112
+[ 1689.762639] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 93
+[ 1689.778649] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 82
+[ 1691.535240] healthd: battery l=100 v=4397 t=33.0 h=2 st=2 c=-295000 fc=4939000 cc=0 chg=au
+[ 1695.626645] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 102
+[ 1695.642662] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 121
+[ 1695.654651] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 129
+[ 1695.666612] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 148
+[ 1695.682686] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 168
+[ 1695.698828] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 187
+[ 1695.714650] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 206
+[ 1695.730645] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 226
+[ 1695.750646] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 245
+[ 1695.766652] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 264
+[ 1695.782673] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 284
+[ 1695.798650] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 303
+[ 1695.814663] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 322
+[ 1695.830683] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 341
+[ 1695.850657] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 360
+[ 1695.866654] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 380
+[ 1695.882639] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 400
+[ 1695.898761] jlq-dsi-panel 30620000.dsi.0: display: set brightness value = 405
+[ 1696.779789] jlq_cm: JCMREC: OCV:4306000 Volt:4402000 Cur:-338000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4939000 Cfull:4939000 Chg:1 ibus:480000 vbus:4700000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1727.499795] jlq_cm: JCMREC: OCV:4307000 Volt:4397000 Cur:-291000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4939000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1751.535065] healthd: battery l=100 v=4396 t=32.9 h=2 st=2 c=-257000 fc=4939000 cc=0 chg=au
+[ 1758.219785] jlq_cm: JCMREC: OCV:4307000 Volt:4399000 Cur:-287000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4939000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1788.939819] jlq_cm: JCMREC: OCV:4308000 Volt:4399000 Cur:-284000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4939000 Cfull:4939000 Chg:1 ibus:480000 vbus:4700000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1800.164670] type=1400 audit(1781486741.389:4849): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1800.208372] type=1400 audit(1781486741.433:4850): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1811.533911] healthd: battery l=100 v=4389 t=33.0 h=2 st=2 c=-221000 fc=4939000 cc=0 chg=au
+[ 1819.659644] jlq_cm: JCMREC: OCV:4308000 Volt:4385000 Cur:-138000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4939000 Cfull:4939000 Chg:1 ibus:484000 vbus:4700000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1847.241724] type=1400 audit(1781486788.465:4851): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1847.256700] type=1400 audit(1781486788.481:4852): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1847.274919] binder: undelivered transaction 1049792, process died.
+[ 1847.274932] binder: undelivered transaction 1049793, process died.
+[ 1850.162646] type=1400 audit(1781486791.385:4853): avc: denied { read } for comm="Binder:338_2" name="wakeup7" dev="sysfs" ino=33494 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1850.180213] type=1400 audit(1781486791.405:4854): avc: denied { read } for comm="Binder:338_2" name="wakeup8" dev="sysfs" ino=33559 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[ 1850.379774] jlq_cm: JCMREC: OCV:4309000 Volt:4379000 Cur:-146000 BSoc:100 Ssoc:100 Msoc:100 Cnow:4939000 Cfull:4939000 Chg:1 ibus:484000 vbus:4600000 fcv:4450000 fcc:600000 fccEf:USB-plugin-type ChgS:1 ChgEf:Common-enable
+[ 1855.149246] type=1400 audit(1781486796.373:4855): avc: denied { getpgid } for comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+[ 1855.149661] type=1400 audit(1781486796.373:4856): avc: denied { getpgid } for comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+[ 1855.156596] type=1400 audit(1781486796.381:4857): avc: denied { getpgid } for comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+[ 1855.156858] type=1400 audit(1781486796.381:4858): avc: denied { getpgid } for comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+[ 1855.162907] type=1400 audit(1781486796.389:4859): avc: denied { getpgid } for comm="ActivityManager" scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+[ 1855.162958] audit: audit_lost=3899 audit_rate_limit=5 audit_backlog_limit=64
+[ 1855.162965] audit: rate limit exceeded
+[ 1871.535605] healthd: battery l=100 v=4391 t=33.1 h=2 st=2 c=-250000 fc=4939000 cc=0 chg=au
